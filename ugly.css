@@ -1,0 +1,25 @@
+.container{
+    background-image: url(http://127.0.0.1:5500/ugly.html) ;
+    height: vh;
+    width: vw;
+    position: absolute;
+    
+}
+
+.paisley{
+    height:1000vh;
+    width: 100vw;
+    z-index: -2;
+    position: absolute;
+}
+h1{
+    font-size: xx-large;
+    position: absolute;
+    margin: 100px;
+    top: 50%;
+    left: 20%;
+    font-size: 400px;
+    
+    z-index: 9;
+
+}
